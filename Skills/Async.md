@@ -28,7 +28,7 @@
   - Promise:🖐️ used
   - Async/await:🖐️ used
   - Future
-  - Deferred
+  - Deferred: 🖐️ used
   - Sync generator:👂 heard
   - Async Generator:👂 heard
   - Async Iterator:👂 heard
