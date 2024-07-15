@@ -45,21 +45,21 @@
   - `ORDER BY`: 🖐️ used
   - `GROUP BY`: 🖐️ used
   - `HAVING`
-  - `EXISTS`:
+  - `EXISTS`
   - `JOIN`: 🖐️ used
-  - `INNER JOIN`:👂 heard
-  - `LEFT JOIN`:👂 heard
-  - `RIGHT JOIN`:👂 heard
-  - `UNION`:👂 heard
+  - `INNER JOIN`: 👂 heard
+  - `LEFT JOIN`: 👂 heard
+  - `RIGHT JOIN`: 👂 heard
+  - `UNION`: 👂 heard
   - `DISTINCT`
-  - `WHERE`🖐️ used
+  - `WHERE`: 🖐️ used
   - `LIKE`
   - `IN`
   - `BETWEEN`
-  - `CREATE TABLE`🖐️ used
+  - `CREATE TABLE`: 🖐️ used
   - `ALTER TABLE`
   - `DROP TABLE`
-  - `PRIMARY KEY`🖐️ used
+  - `PRIMARY KEY`: 🖐️ used
   - `FOREIGN KEY`
   - `CHECK`
   - `DEFAULT`
@@ -72,18 +72,18 @@
 - Engines
   - PostgreSQL
   - Oracle
-  - MySQL:🖐️ used
-  - MariaDB:🖐️ used
+  - MySQL: 🖐️ used
+  - MariaDB: 🖐️ used
   - MS SQL Server
   - Redis
   - Rabbit
-  - MongoDB:🖐️ used
+  - MongoDB: 🖐️ used
   - Memcached
   - Riak
   - DB2
-  - SQLite:🖐️ used
-  - DynamoDB:🖐️ used
-  - Firebase:👂 heard
+  - SQLite: 🖐️ used
+  - DynamoDB: 🖐️ used
+  - Firebase: 👂 heard
 - Data engineering
   - Data warehousing
   - Business intelligence
