@@ -1,7 +1,7 @@
 ## Databases
 
 - Theory and concepts
-  - Data types
+  - Data types: 🖐️ used
   - Performance tuning
   - Migrations
   - Schema versioning
@@ -36,30 +36,30 @@
   - Replications
   - Virtualization
 - SQL
-  - `SELECT`
-  - `INSERT`
-  - `UPDATE`
-  - `DELETE`
-  - `LIMIT`
-  - `OFFSET`
-  - `ORDER BY`
-  - `GROUP BY`
+  - `SELECT`: 🖐️ used
+  - `INSERT`: 🖐️ used
+  - `UPDATE`: 🖐️ used
+  - `DELETE`: 🖐️ used
+  - `LIMIT`: 🖐️ used
+  - `OFFSET`: 🖐️ used
+  - `ORDER BY`: 🖐️ used
+  - `GROUP BY`: 🖐️ used
   - `HAVING`
-  - `EXISTS`
-  - `JOIN`
-  - `INNER JOIN`
-  - `LEFT JOIN`
-  - `RIGHT JOIN`
-  - `UNION`
+  - `EXISTS`:
+  - `JOIN`: 🖐️ used
+  - `INNER JOIN`:👂 heard
+  - `LEFT JOIN`:👂 heard
+  - `RIGHT JOIN`:👂 heard
+  - `UNION`:👂 heard
   - `DISTINCT`
-  - `WHERE`
+  - `WHERE`🖐️ used
   - `LIKE`
   - `IN`
   - `BETWEEN`
-  - `CREATE TABLE`
+  - `CREATE TABLE`🖐️ used
   - `ALTER TABLE`
   - `DROP TABLE`
-  - `PRIMARY KEY`
+  - `PRIMARY KEY`🖐️ used
   - `FOREIGN KEY`
   - `CHECK`
   - `DEFAULT`
@@ -72,18 +72,18 @@
 - Engines
   - PostgreSQL
   - Oracle
-  - MySQL
-  - MariaDB
+  - MySQL:🖐️ used
+  - MariaDB:🖐️ used
   - MS SQL Server
   - Redis
   - Rabbit
-  - MongoDB
+  - MongoDB:🖐️ used
   - Memcached
   - Riak
   - DB2
-  - SQLite
-  - DynamoDB
-  - Firebase
+  - SQLite:🖐️ used
+  - DynamoDB:🖐️ used
+  - Firebase:👂 heard
 - Data engineering
   - Data warehousing
   - Business intelligence

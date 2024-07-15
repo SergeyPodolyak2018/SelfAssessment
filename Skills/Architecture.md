@@ -1,22 +1,22 @@
 ## Architecture
 
 - Application structure
-  - Modularity
-  - Components
-  - Directories
-  - GRASP
-  - SOLID
+  - Modularity: 🖐️ used
+  - Components: 🖐️ used
+  - Directories: 🖐️ used
+  - GRASP:
+  - SOLID: 🎓 known
   - GoF patterns
   - CQS
   - Leaking abstractions
-  - Multiparadigm code
-  - Contract programming
+  - Multiparadigm code: 🎓 known
+  - Contract programming: 👂 heard
   - Platform-agnostic
   - Transport-agnostic
   - Framework-agnostic
-  - Code coverage
-  - Cohesion
-  - Coupling
+  - Code coverage: 🖐️ used
+  - Cohesion: 🖐️ used
+  - Coupling: 🎓 known
   - Cyclomatic complexity
   - Reliability
   - Quality
@@ -30,16 +30,16 @@
   - Multilayer approach
   - Hexagonal architecture
   - Separation of concerns (SoC)
-  - Metaprogramming
+  - Metaprogramming: 👂 heard
   - Inversion of control (IoC)
   - Dependency injection (DI)
   - Clean architecture
   - Domain-driven design (DDD)
   - Pub/sub
-  - Message brocker
+  - Message brocker: 👂 heard
   - Agent
   - Service locator
-  - Message Queue (MQ)
+  - Message Queue (MQ): 👂 heard
   - CQRS
   - Event sourcing
   - E-R data modeling
@@ -52,7 +52,7 @@
   - High-intensive computing
   - Load balancing
   - Gateways
-  - On-premises
+  - On-premises: 🖐️ known
   - IaaS
   - PaaS
   - SaaS
@@ -68,7 +68,7 @@
   - Process modelling
   - Data modelling
   - Solution components
-  - Risk assessment
+  - Risk assessment: 🖐️ used
   - Non Functional Requirements (NFR)
   - Clouds
   - BPMN
@@ -88,9 +88,9 @@
   - Project scope
   - Enterprise service bus
   - Service-oriented architecture
-  - Microservices
+  - Microservices: 🖐️ used
   - Process choreography
-  - Service orchestration
+  - Service orchestration:👂 heard
   - Data warehouse
   - Business Intelligence
   - OLAP

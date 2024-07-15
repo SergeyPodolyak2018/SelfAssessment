@@ -1,94 +1,94 @@
 ## JavaScript
 
 - Language
-  - `Object`
-  - `Function`
-  - `Boolean`
-  - `Number`
-  - `BigInt`
-  - `String`
-  - `Symbol`
-  - `Infinity`
-  - `NaN`
-  - `undefined`
-  - `null`
-  - `this`
-  - `instanceof`
-  - `...spread`
-  - `...rest`
-  - `typeof`
-  - Destructuring
+  - `Object`: 🖐️ used
+  - `Function`: 🖐️ used
+  - `Boolean`: 🖐️ used
+  - `Number`: 🖐️ used
+  - `BigInt`: 🖐️ used
+  - `String`: 🖐️ used
+  - `Symbol`:🎓 known
+  - `Infinity`: 🖐️ used
+  - `NaN`: 🖐️ used
+  - `undefined`: 🖐️ used
+  - `null`: 🖐️ used
+  - `this`: 🖐️ used
+  - `instanceof`: 🖐️ used
+  - `...spread`: 🖐️ used
+  - `...rest`: 🖐️ used
+  - `typeof`: 🖐️ used
+  - Destructuring: 🖐️ used
   - Generators
-  - Iterators
+  - Iterators: 🖐️ used
   - Async generator
   - Async iterator
-  - Chaining
+  - Chaining: 🖐️ used
   - Optional chaining
-  - IIFE
+  - IIFE: 🖐️ used
   - Async IIFE
   - `global`
   - `globalThis`
-  - `window`
-  - Getters and setters
-  - `__proto__`
-  - `prototype`
-  - Equality operators
-  - Logical operators
-  - Logical Assignment
-  - Bitwise operators
-  - Ternary operator
-  - `void`
-  - `yield`
-  - `await`
-  - Template literal
-  - Strict mode
-  - Hoisting
-  - `delete`
-  - `in`
-  - `super`
-  - `eval`
-  - `static`
-  - `Number.parseInt`
-  - `Number.parseFloat`
+  - `window`: 🖐️ used
+  - Getters and setters: 🖐️ used
+  - `__proto__`: 🖐️ used
+  - `prototype`: 🖐️ used
+  - Equality operators: 🖐️ used
+  - Logical operators: 🖐️ used
+  - Logical Assignment: 🖐️ used
+  - Bitwise operators: 🖐️ used
+  - Ternary operator: 🖐️ used
+  - `void`:🎓 known
+  - `yield`:🎓 known
+  - `await`: 🖐️ used
+  - Template literal:🖐️ used
+  - Strict mode:🖐️ used
+  - Hoisting:🖐️ used
+  - `delete`:🖐️ used
+  - `in`:🖐️ used
+  - `super`:🖐️ used
+  - `eval`:🖐️ used
+  - `static`:🖐️ used
+  - `Number.parseInt`:🖐️ used
+  - `Number.parseFloat`:🖐️ used
   - Property descriptors
   - Sealing properties
-  - Freezing properties
+  - Freezing properties:🖐️ used
   - Computed properties
   - Instance class fields
-  - Static class fields
-  - Private class fields
+  - Static class fields:🖐️ used
+  - Private class fields:🖐️ used
   - Private class methods
 - Statements
-  - `if`
-  - `while`
-  - `do..while`
-  - `for`
-  - `for..in`
-  - `for..of`
+  - `if`:🖐️ used
+  - `while`:🖐️ used
+  - `do..while`:🖐️ used
+  - `for`:🖐️ used
+  - `for..in`:🖐️ used
+  - `for..of`:🖐️ used
   - `for await`
-  - `throw`
-  - `break`
-  - `continue`
-  - `import`
-  - `export`
+  - `throw`:🖐️ used
+  - `break`:🖐️ used
+  - `continue`:🖐️ used
+  - `import`:🖐️ used
+  - `export`:🖐️ used
   - `label`
-  - `try..catch`
-  - `switch`
-  - `class`
-  - `extends`
+  - `try..catch`:🖐️ used
+  - `switch`:🖐️ used
+  - `class`:🖐️ used
+  - `extends`:🖐️ used
   - `with`
-  - `new`
+  - `new`:🖐️ used
 - Functions
-  - Arrow function
-  - Async function
-  - Function declaration
-  - Function expression
-  - Default parameters
-  - Functional object
-  - `Function.prototype.call`
-  - `Function.prototype.bind`
-  - `Function.prototype.apply`
-  - `return`
+  - Arrow function:🖐️ used
+  - Async function:🖐️ used
+  - Function declaration:🖐️ used
+  - Function expression:🖐️ used
+  - Default parameters:🖐️ used
+  - Functional object:
+  - `Function.prototype.call`:🖐️ used
+  - `Function.prototype.bind`:🖐️ used
+  - `Function.prototype.apply`:🖐️ used
+  - `return`:🖐️ used
 - Data structures
   - `Array`
   - `Map`
@@ -99,24 +99,24 @@
   - Mixins
   - `Object.assign`
 - Standard classes and namespaces
-  - `Proxy`
-  - `RegExp`
-  - `Date`
-  - `Math`
+  - `Proxy`:👂 heard
+  - `RegExp`:🖐️ used
+  - `Date`:🖐️ used
+  - `Math`:🖐️ used
   - `Reflect`
-  - `Error`
+  - `Error`:🖐️ used
   - `Atomics`
-  - `JSON`
+  - `JSON`:🖐️ used
   - `WeakRef`
   - `FinalizationRegistry`
   - `Intl`
-  - `Promise`
-  - `console`
-  - Timers
+  - `Promise`:🖐️ used
+  - `console`:🖐️ used
+  - Timers:🖐️ used
 - Infrastructure
-  - V8
-  - Node.js
-  - npm
-  - prettier
-  - MDN
+  - V8:👂 heard
+  - Node.js:🖐️ used
+  - npm:🖐️ used
+  - prettier:🖐️ used
+  - MDN:🖐️ used
   - TC39
