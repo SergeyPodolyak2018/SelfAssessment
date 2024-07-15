@@ -4,7 +4,7 @@
   - Modularity: 🖐️ used
   - Components: 🖐️ used
   - Directories: 🖐️ used
-  - GRASP:
+  - GRASP
   - SOLID: 🎓 known
   - GoF patterns
   - CQS
@@ -52,7 +52,7 @@
   - High-intensive computing
   - Load balancing
   - Gateways
-  - On-premises: 🖐️ known
+  - On-premises: 🖐️ known 👉 Warning: not matching level and emoji
   - IaaS
   - PaaS
   - SaaS
@@ -90,7 +90,7 @@
   - Service-oriented architecture
   - Microservices: 🖐️ used
   - Process choreography
-  - Service orchestration:👂 heard
+  - Service orchestration: 👂 heard
   - Data warehouse
   - Business Intelligence
   - OLAP

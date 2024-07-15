@@ -4,54 +4,54 @@
   - Event loop: 🖐️ used
   - `try..catch`: 🖐️ used
   - Non-blocking: 🖐️ used
-  - Async I/O:🎓 known
-  - Thread pool:🎓 known
-  - Pattern Reactor:👂 heard
-  - CAS operations:
-  - epoll:
-  - kqueue:
-  - Completion ports:
-  - Event ports:
-  - libuv:🎓 known
-  - Race conditions:👂 heard
+  - Async I/O: 🎓 known
+  - Thread pool: 🎓 known
+  - Pattern Reactor: 👂 heard
+  - CAS operations
+  - epoll
+  - kqueue
+  - Completion ports
+  - Event ports
+  - libuv: 🎓 known
+  - Race conditions: 👂 heard
   - Dead locks
   - Live locks
   - Concurrent programming
   - Parallel programming
   - Actor Model
   - Thread: 🖐️ used
-  - Process:🖐️ used
+  - Process: 🖐️ used
 - Async contracts
-  - Callbacks:🖐️ used
-  - Callback-last-error-first:🖐️ used
-  - Thenable:🖐️ used
-  - Promise:🖐️ used
-  - Async/await:🖐️ used
+  - Callbacks: 🖐️ used
+  - Callback-last-error-first: 🖐️ used
+  - Thenable: 🖐️ used
+  - Promise: 🖐️ used
+  - Async/await: 🖐️ used
   - Future
   - Deferred: 🖐️ used
-  - Sync generator:👂 heard
-  - Async Generator:👂 heard
-  - Async Iterator:👂 heard
-  - Event:🖐️ used
+  - Sync generator: 👂 heard
+  - Async Generator: 👂 heard
+  - Async Iterator: 👂 heard
+  - Event: 🖐️ used
   - Coroutine
   - Goroutine
   - Signal
-  - Stream:🖐️ used
+  - Stream: 🖐️ used
   - Chain of responsibility
   - Middleware
   - Locks
 - Async adapters and utils
   - callbackify
-  - promisify:🖐️ used
+  - promisify: 🖐️ used
   - asyncify
-  - Callbacks compose:🖐️ used
+  - Callbacks compose: 🖐️ used
   - Async compose
 - Async abstractions interfaces
   - EventEmitter: 🖐️ used
-  - Observable/Observer:known 🎓
-  - Readable:🖐️ used
-  - Writable:🖐️ used
-  - Transform:🖐️ used
+  - Observable/Observer:known: 🎓 known
+  - Readable: 🖐️ used
+  - Writable: 🖐️ used
+  - Transform: 🖐️ used
   - Async Pool
   - Async Queue
   - Async Collector
@@ -59,8 +59,8 @@
   - Mutex
   - Spin Lock
 - JavaScript & Node.js specific
-  - Timers:🖐️ used
-  - `setImmediate`:🖐️ used
+  - Timers: 🖐️ used
+  - `setImmediate`: 🖐️ used
   - `nextTick`: 👂 heard
   - AbortController: 👂 heard
   - AbortSignal: 👂 heard
@@ -79,11 +79,11 @@
 - Techniques
   - Async.js library
   - RxJS library: 🖐️ used
-  - Promise.all:🖐️ used
+  - Promise.all: 🖐️ used
   - Promise.allSettled: 🖐️ used
-  - Promise.race:🎓 known
-  - Promise.any:👂 heard
-  - Web Locks API:
+  - Promise.race: 🎓 known
+  - Promise.any: 👂 heard
+  - Web Locks API
   - IPC
   - Channel API
   - Revealing constructor: 🎓 known

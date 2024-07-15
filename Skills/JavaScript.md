@@ -7,7 +7,7 @@
   - `Number`: 🖐️ used
   - `BigInt`: 🖐️ used
   - `String`: 🖐️ used
-  - `Symbol`:🎓 known
+  - `Symbol`: 🎓 known
   - `Infinity`: 🖐️ used
   - `NaN`: 🖐️ used
   - `undefined`: 🖐️ used
@@ -37,58 +37,58 @@
   - Logical Assignment: 🖐️ used
   - Bitwise operators: 🖐️ used
   - Ternary operator: 🖐️ used
-  - `void`:🎓 known
-  - `yield`:🎓 known
+  - `void`: 🎓 known
+  - `yield`: 🎓 known
   - `await`: 🖐️ used
-  - Template literal:🖐️ used
-  - Strict mode:🖐️ used
-  - Hoisting:🖐️ used
-  - `delete`:🖐️ used
-  - `in`:🖐️ used
-  - `super`:🖐️ used
-  - `eval`:🖐️ used
-  - `static`:🖐️ used
-  - `Number.parseInt`:🖐️ used
-  - `Number.parseFloat`:🖐️ used
+  - Template literal: 🖐️ used
+  - Strict mode: 🖐️ used
+  - Hoisting: 🖐️ used
+  - `delete`: 🖐️ used
+  - `in`: 🖐️ used
+  - `super`: 🖐️ used
+  - `eval`: 🖐️ used
+  - `static`: 🖐️ used
+  - `Number.parseInt`: 🖐️ used
+  - `Number.parseFloat`: 🖐️ used
   - Property descriptors
   - Sealing properties
-  - Freezing properties:🖐️ used
+  - Freezing properties: 🖐️ used
   - Computed properties
   - Instance class fields
-  - Static class fields:🖐️ used
-  - Private class fields:🖐️ used
+  - Static class fields: 🖐️ used
+  - Private class fields: 🖐️ used
   - Private class methods
 - Statements
-  - `if`:🖐️ used
-  - `while`:🖐️ used
-  - `do..while`:🖐️ used
-  - `for`:🖐️ used
-  - `for..in`:🖐️ used
-  - `for..of`:🖐️ used
+  - `if`: 🖐️ used
+  - `while`: 🖐️ used
+  - `do..while`: 🖐️ used
+  - `for`: 🖐️ used
+  - `for..in`: 🖐️ used
+  - `for..of`: 🖐️ used
   - `for await`
-  - `throw`:🖐️ used
-  - `break`:🖐️ used
-  - `continue`:🖐️ used
-  - `import`:🖐️ used
-  - `export`:🖐️ used
+  - `throw`: 🖐️ used
+  - `break`: 🖐️ used
+  - `continue`: 🖐️ used
+  - `import`: 🖐️ used
+  - `export`: 🖐️ used
   - `label`
-  - `try..catch`:🖐️ used
-  - `switch`:🖐️ used
-  - `class`:🖐️ used
-  - `extends`:🖐️ used
+  - `try..catch`: 🖐️ used
+  - `switch`: 🖐️ used
+  - `class`: 🖐️ used
+  - `extends`: 🖐️ used
   - `with`
-  - `new`:🖐️ used
+  - `new`: 🖐️ used
 - Functions
-  - Arrow function:🖐️ used
-  - Async function:🖐️ used
-  - Function declaration:🖐️ used
-  - Function expression:🖐️ used
-  - Default parameters:🖐️ used
-  - Functional object:
-  - `Function.prototype.call`:🖐️ used
-  - `Function.prototype.bind`:🖐️ used
-  - `Function.prototype.apply`:🖐️ used
-  - `return`:🖐️ used
+  - Arrow function: 🖐️ used
+  - Async function: 🖐️ used
+  - Function declaration: 🖐️ used
+  - Function expression: 🖐️ used
+  - Default parameters: 🖐️ used
+  - Functional object
+  - `Function.prototype.call`: 🖐️ used
+  - `Function.prototype.bind`: 🖐️ used
+  - `Function.prototype.apply`: 🖐️ used
+  - `return`: 🖐️ used
 - Data structures
   - `Array`
   - `Map`
@@ -99,24 +99,24 @@
   - Mixins
   - `Object.assign`
 - Standard classes and namespaces
-  - `Proxy`:👂 heard
-  - `RegExp`:🖐️ used
-  - `Date`:🖐️ used
-  - `Math`:🖐️ used
+  - `Proxy`: 👂 heard
+  - `RegExp`: 🖐️ used
+  - `Date`: 🖐️ used
+  - `Math`: 🖐️ used
   - `Reflect`
-  - `Error`:🖐️ used
+  - `Error`: 🖐️ used
   - `Atomics`
-  - `JSON`:🖐️ used
+  - `JSON`: 🖐️ used
   - `WeakRef`
   - `FinalizationRegistry`
   - `Intl`
-  - `Promise`:🖐️ used
-  - `console`:🖐️ used
-  - Timers:🖐️ used
+  - `Promise`: 🖐️ used
+  - `console`: 🖐️ used
+  - Timers: 🖐️ used
 - Infrastructure
-  - V8:👂 heard
-  - Node.js:🖐️ used
-  - npm:🖐️ used
-  - prettier:🖐️ used
-  - MDN:🖐️ used
+  - V8: 👂 heard
+  - Node.js: 🖐️ used
+  - npm: 🖐️ used
+  - prettier: 🖐️ used
+  - MDN: 🖐️ used
   - TC39
